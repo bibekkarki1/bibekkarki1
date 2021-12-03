@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bibek
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning SQL, Python, R, and Tableau
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and R
 - 📫 How to reach me 
 
 <!---
