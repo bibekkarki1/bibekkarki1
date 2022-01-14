@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bibek
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python and R
-- 📫 
+- I’m a data science aficionado looking for opportunities in data science and analytics
+- 📫 Email: bibekkarki1999@gmail.com 
+- LinkedIn: linkedin.com/in/bibek-karki
 
 <!---
 bibekkarki1/bibekkarki1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
