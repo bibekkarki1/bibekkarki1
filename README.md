@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bibek!
-- I love data science, economics, and finance
+- I love data science, economics, and statistics
 - I'm looking for opportunities in data science and analytics
 - You can check out my data science projects & codes in my "Data Science Projects" repository
 - 📫 Email: bibekkarki1999@gmail.com 
