@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Bibek!
-- I love data science, economics, and statistics
-- I'm looking for opportunities in data science and analytics
+- I love working with data to discover new trends & to build amazing visuals and models
+- Fan of anything data science, economics, or statistics
+- Looking for opportunities in data science and analytics
 - You can check out my data science projects & codes in my "Data Science Projects" repository
 - 📫 Email: bibekkarki1999@gmail.com 
 - LinkedIn: linkedin.com/in/bibek-karki
