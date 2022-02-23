@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bibek!
-- I love working with data, discover new trends, and building amazing visuals & models
+- I love working with data, discovering new trends, and building amazing visuals & models
 -  Keen on anything data science, economics, or statistics
 - Looking for opportunities in data science and analytics
 - You can check out my data science projects & codes in my "Data Science Projects" repository
